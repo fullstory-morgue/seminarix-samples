@@ -1,0 +1,13 @@
+# Dies ist ein Beispiel-Programm für kturtle, die LOGO-Programmierumgebung.
+#
+# Starten Sie kturtle über das Menü "Seminarix / Informatik",
+# rufen Sie "Datei / Öffnen" auf und wählen Sie diese Datei aus:
+# "Desktop / Beispiele / Beispiel.logo"
+
+zurücksetzen
+vorwärts 100
+nachlinks 180
+wiederhole 90 [
+  vorwärts 200
+  nachlinks 172
+]

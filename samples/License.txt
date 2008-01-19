@@ -1,0 +1,23 @@
+Zu den Dateien in /usr/share/doc/seminarix/htdocs/beispiele/:
+=============================================================
+
+Die Beispiel-Dateien in diesem Verzeichnis stammen von verschiedenen
+Urhebern.
+
+
+* tuxdance.sto
+  Bjørn Erik Nilsen
+  GNU General Public Licence (GPL)
+  Lizenztext siehe /usr/share/doc/stopmotion/copyright
+  http://developer.skolelinux.no/info/studentgrupper/2005-hig-stopmotion/index.php
+
+* Beispiel.logo
+  G-N-U GmbH 2006; Public Domain
+  http://www.g-n-u.de
+
+* software.edu
+  Wolf-Dieter Zimmermann 2006; Public Domain
+
+* erstversuch.kdi
+  Wolf-Dieter Zimmermann 2006; Public Domain
+

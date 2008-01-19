@@ -1,0 +1,14 @@
+Source: seminarix-samples
+Section: doc
+Priority: extra
+Maintainer: Dinko Sabo <cobra@sidux.com>
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 5), imagemagick
+Standards-Version: 3.7.3
+Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-seminarix-common/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-seminarix-common/trunk/
+
+Package: seminarix-samples
+Architecture: all
+Description: samples files for sidux-edu and seminarix-handbook
+

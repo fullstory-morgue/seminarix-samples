@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE vymmap>
+<vymmap  version="1.10.0" author="" comment="" date="2007-12-13" backgroundColor="#ffffff" selectionColor="#ffff00" linkStyle="StylePolyParabel" linkColor="#0000ff" defXLinkColor="#e6e6e6" defXLinkWidth="1">
+    <mapcenter absPosX="-2987.6" absPosY="-376.2" hideLink="false" x1="0" y1="223.8" x2="204" y2="265.8" incImgV="false" incImgH="false">
+        <standardflag>questionmark</standardflag>
+        <heading >Was ist Seminarix</heading>
+        <frame  frameType="Ellipse" penColor="#000000" brushColor="#aaff7f" padding="2" borderWidth="1" />
+        <branch relPosX="84" relPosY="-181" hideLink="false" x1="147.6" y1="63" x2="421.6" y2="126" incImgV="false" incImgH="false">
+            <heading  textColor="#000000">Eine Möglichkeit zur medienkritischen Auseinandersetzung</heading>
+            <frame  frameType="Rectangle" penColor="#000000" brushColor="#a9fffd" padding="1" borderWidth="1" />
+            <branch hideLink="false" x1="441.6" y1="13.5" x2="692.6" y2="67.5" incImgV="false" incImgH="false">
+                <heading  textColor="#000000">ein Kostenfaktor ist das Schulen für alternative Betriebssysteme</heading>
+                <frame  frameType="Rectangle" penColor="#000000" brushColor="#00ffff" padding="0" borderWidth="1" />
+                <standardflag>smiley-sad</standardflag>
+                <branch hideLink="false" x1="712.6" y1="0" x2="984.6" y2="81" incImgV="false" incImgH="false">
+                    <heading  textColor="#000000">alternative Betriebssysteme haben seit langem striktere Rechteregeln und gewähren dadurch höhere Sicherheit</heading>
+                    <frame  frameType="Rectangle" penColor="#000000" brushColor="#55ffff" padding="0" borderWidth="1" />
+                    <standardflag>thumb-up</standardflag>
+                </branch>
+            </branch>
+            <branch hideLink="false" x1="441.6" y1="108" x2="673.6" y2="162" incImgV="false" incImgH="false">
+                <heading  textColor="#000000">Microsoft verletzte oft einfachste Sicherheitsregeln</heading>
+                <frame  frameType="Rectangle" penColor="#000000" brushColor="#ff55ff" padding="0" borderWidth="1" />
+                <standardflag>thumb-down</standardflag>
+                <branch hideLink="false" x1="693.6" y1="121.5" x2="729.6" y2="148.5" incImgV="false" incImgH="false">
+                    <heading  textColor="#000000">und..</heading>
+                    <frame  frameType="Ellipse" penColor="#000000" brushColor="#ffaaff" padding="0" borderWidth="1" />
+                    <branch hideLink="false" x1="749.6" y1="81" x2="992.6" y2="135" incImgV="false" incImgH="false">
+                        <heading  textColor="#000000">...das lies die Bedienung zunächst leichter erscheinen...</heading>
+                        <frame  frameType="Rectangle" penColor="#000000" brushColor="#ffaaff" padding="0" borderWidth="1" />
+                        <standardflag>exclamationmark</standardflag>
+                    </branch>
+                    <branch hideLink="false" x1="749.6" y1="135" x2="997.6" y2="189" incImgV="false" incImgH="false">
+                        <heading  textColor="#000000">...bis die ersten Viren, Würmer und Trojaner kamen</heading>
+                        <frame  frameType="Rectangle" penColor="#000000" brushColor="#ff007f" padding="0" borderWidth="1" />
+                        <standardflag>smiley-omb</standardflag>
+                    </branch>
+                </branch>
+            </branch>
+        </branch>
+        <branch relPosX="142" relPosY="-4" url="http://studienseminar-neuss.de" hideLink="false" x1="244.6" y1="241" x2="488.6" y2="272" incImgV="false" incImgH="false">
+            <heading  textColor="#000000">http://studienseminar-neuss.de</heading>
+            <frame  frameType="Rectangle" penColor="#000000" brushColor="#55ff7f" padding="0" borderWidth="1" />
+            <branch hideLink="false" x1="508.6" y1="243" x2="732.6" y2="270" incImgV="false" incImgH="false">
+                <heading  textColor="#000000">...ein Angebot vom Seminar Neuss</heading>
+                <frame  frameType="Rectangle" penColor="#000000" brushColor="#a9fffd" padding="0" borderWidth="1" />
+                <branch hideLink="false" x1="752.6" y1="243" x2="883.6" y2="270" incImgV="false" incImgH="false">
+                    <heading  textColor="#000000">kritisch reflektierend</heading>
+                    <frame  frameType="Ellipse" penColor="#000000" brushColor="#aaff7f" padding="0" borderWidth="1" />
+                    <branch hideLink="false" x1="903.6" y1="229.5" x2="1136.6" y2="283.5" incImgV="false" incImgH="false">
+                        <heading  textColor="#000000">Schulung der Auszubildenden in der digitalen Welt</heading>
+                        <frame  frameType="Rectangle" penColor="#000000" brushColor="#55ffff" padding="0" borderWidth="1" />
+                    </branch>
+                </branch>
+            </branch>
+        </branch>
+        <branch relPosX="129" relPosY="148" hideLink="false" x1="192.8" y1="392.8" x2="362.8" y2="423.8" incImgV="false" incImgH="false">
+            <heading  textColor="#000000">Lernen und Ausbildung</heading>
+            <frame  frameType="Rectangle" penColor="#000000" brushColor="#a9fffd" padding="0" borderWidth="1" />
+            <branch url="http://sidux.com" hideLink="false" x1="382.8" y1="381.3" x2="566.8" y2="408.3" incImgV="false" incImgH="false">
+                <heading  textColor="#000000">http://www.sidux.com</heading>
+                <frame  frameType="Ellipse" penColor="#000000" brushColor="#55ff7f" padding="0" borderWidth="1" />
+                <standardflag>heart</standardflag>
+                <branch hideLink="false" x1="586.8" y1="381.3" x2="724.8" y2="408.3" incImgV="false" incImgH="false">
+                    <heading  textColor="#000000">eine Linuxdistribution</heading>
+                    <frame  frameType="Rectangle" penColor="#000000" brushColor="#55ffff" padding="0" borderWidth="1" />
+                    <branch hideLink="false" x1="744.8" y1="327.3" x2="937.8" y2="354.3" incImgV="false" incImgH="false">
+                        <heading  textColor="#000000">voll Debian-sid kompatibel</heading>
+                        <standardflag>thumb-up</standardflag>
+                        <branch hideLink="false" x1="957.8" y1="327.3" x2="1115.8" y2="354.3" incImgV="false" incImgH="false">
+                            <heading  textColor="#000000">riesige Softwareauswahl</heading>
+                            <frame  frameType="Rectangle" penColor="#000000" brushColor="#55ffff" padding="0" borderWidth="1" />
+                        </branch>
+                    </branch>
+                    <branch hideLink="false" x1="744.8" y1="354.3" x2="832.8" y2="381.3" incImgV="false" incImgH="false">
+                        <heading  textColor="#000000">topaktuell</heading>
+                        <standardflag>thumb-up</standardflag>
+                    </branch>
+                    <branch hideLink="false" x1="744.8" y1="381.3" x2="906.8" y2="408.3" incImgV="false" incImgH="false">
+                        <heading  textColor="#000000">ständig aktualisierbar</heading>
+                        <standardflag>smiley-good</standardflag>
+                    </branch>
+                    <branch hideLink="false" x1="744.8" y1="408.3" x2="1079.8" y2="435.3" incImgV="false" incImgH="false">
+                        <heading  textColor="#000000">hilfsbereite Menschen in Chat und Forum</heading>
+                        <standardflag>smiley-good</standardflag>
+                        <standardflag>lifebelt</standardflag>
+                        <standardflag>heart</standardflag>
+                    </branch>
+                    <branch hideLink="false" x1="744.8" y1="435.3" x2="872.8" y2="462.3" incImgV="false" incImgH="false">
+                        <heading  textColor="#000000">leicht bedienbar</heading>
+                        <standardflag>lamp</standardflag>
+                    </branch>
+                </branch>
+            </branch>
+            <branch hideLink="false" x1="382.8" y1="462.3" x2="540.8" y2="489.3" incImgV="false" incImgH="false">
+                <heading  textColor="#000000">mit seminarix-Handbuch</heading>
+                <frame  frameType="Ellipse" penColor="#000000" brushColor="#55ff7f" padding="0" borderWidth="1" />
+                <branch url="file:///usr/share/seminarix-handbook/de/files/willkommen.html" hideLink="false" x1="560.8" y1="462.3" x2="972.8" y2="489.3" incImgV="false" incImgH="false">
+                    <heading  textColor="#000000">file:///usr/share/seminarix-handbook/de/files/willkommen.html</heading>
+                    <frame  frameType="Rectangle" penColor="#000000" brushColor="#55ffff" padding="0" borderWidth="1" />
+                </branch>
+            </branch>
+        </branch>
+    </mapcenter>
+    <select>bo:0,bo:1</select>
+</vymmap>
