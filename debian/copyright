@@ -2,7 +2,7 @@ This package was debianized by Dinko Sabo <cobra@sidux.com> on
 Thu, 17 Jan 2008 05:00:20 +0100.
 
 Upstream Authors:
-    Wolf-Dieter Zimmermann
+    Wolf-Dieter Zimmermann <wdzimmermann@arcor.de>
     Roland Engert <roen@sidux-ev.com>
     Hendrik Lehmbruch <hlehmbruch@gmx.net>
     Björn Jilg <bjoern.jil@gmx.de>
@@ -17,28 +17,21 @@ Copyright:
     (C) 2007 Thomas Kross <thomas.kross@muuskist.de>
     (C) 2007 Dinko Sabo <cobra@sidux.com>
 
-
-
 Copyrights and licences for the files in /samples
-
 	* tuxdance.sto
   		Bjørn Erik Nilsen
  		 GNU General Public Licence (GPL)
   		Lizenztext siehe /usr/share/doc/stopmotion/copyright
   		http://developer.skolelinux.no/info/studentgrupper/2005-hig-stopmotion/index.php
-
 	* Beispiel.logo
   		G-N-U GmbH 2006; Public Domain
   		http://www.g-n-u.de
-
 	* software.edu
   		Wolf-Dieter Zimmermann 2006; Public Domain
-
 	* erstversuch.kdi
   		Wolf-Dieter Zimmermann 2006; Public Domain
 
 License:
-
     This package is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation; either version 2 of the License, or
