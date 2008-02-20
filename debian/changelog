@@ -1,3 +1,9 @@
+seminarix-samples (0.1.1) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 20 Feb 2008 23:54:16 +0100
+
 seminarix-samples (0.1.0) unstable; urgency=low
 
   * appease lintian and write (C) as © in debian/copyright.
