@@ -1,21 +1,13 @@
 This package was debianized by Dinko Sabo <cobra@sidux.com> on
 Thu, 17 Jan 2008 05:00:20 +0100.
 
-Upstream Authors:
-    Wolf-Dieter Zimmermann <wdzimmermann@arcor.de>
-    Roland Engert <roen@sidux-ev.com>
-    Hendrik Lehmbruch <hlehmbruch@gmx.net>
-    Björn Jilg <bjoern.jil@gmx.de>
-    Thomas Kross <thomas.kross@muuskist.de>
-    Dinko Sabo <cobra@sidux.com>
-
 Copyright:
-    (C) Wolf-Dieter Zimmermann <wdzimmermann@arcor.de>
-    (C) 2007 Roland Engert <roen@sidux.com>
-    (C) 2007 Hendrik Lehmbruch <hlehmbruch@gmx.net>
-    (C) 2007 Björn Jilg <bjoern.jil@gmx.de>
-    (C) 2007 Thomas Kross <thomas.kross@muuskist.de>
-    (C) 2007 Dinko Sabo <cobra@sidux.com>
+    © 2007 Wolf-Dieter Zimmermann <wdzimmermann@arcor.de>
+    © 2007 Roland Engert <roen@sidux.com>
+    © 2007 Hendrik Lehmbruch <hlehmbruch@gmx.net>
+    © 2007 Björn Jilg <bjoern.jil@gmx.de>
+    © 2007 Thomas Kross <thomas.kross@muuskist.de>
+    © 2007 Dinko Sabo <cobra@sidux.com>
 
 Copyrights and licences for the files in /samples
 	* tuxdance.sto
@@ -49,6 +41,6 @@ License:
 On Debian systems, the complete text of the GNU General
 Public License can be found in `/usr/share/common-licenses/GPL'.
 
-The Debian packaging is (C) 2007, Dinko Sabo <cobra@sidux.com> and
+The Debian packaging is © 2007, Dinko Sabo <cobra@sidux.com> and
 is licensed under the GPL, see above.
 
