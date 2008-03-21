@@ -1,8 +1,12 @@
 seminarix-samples (0.1.1) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 20 Feb 2008 23:54:16 +0100
+  [ Ferdinand Thommes ]
+  * added sample file for vym
+
+ -- Ferdinand Thommes <devil@sidux.com>  Fri, 21 Mar 2008 15:49:51 +0100
 
 seminarix-samples (0.1.0) unstable; urgency=low
 
