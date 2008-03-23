@@ -1,9 +1,5 @@
-seminarix-samples (0.1.2) UNRELEASED; urgency=low
+seminarix-samples (0.1.2) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Ferdinand Thommes ]
   * created directories icons and menu
   * initial import of 2 icons
   * initial import of sidux-png-video.desktop
