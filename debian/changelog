@@ -5,8 +5,9 @@ seminarix-samples (0.1.2) UNRELEASED; urgency=low
 
   [ Ferdinand Thommes ]
   * created directories icons and menu
+  * initial import of 2 icons
 
- -- Ferdinand Thommes <devil@sidux.com>  Sun, 23 Mar 2008 14:18:45 +0100
+ -- Ferdinand Thommes <devil@sidux.com>  Sun, 23 Mar 2008 14:23:02 +0100
 
 seminarix-samples (0.1.1) unstable; urgency=low
 
