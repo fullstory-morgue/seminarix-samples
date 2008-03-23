@@ -1,8 +1,12 @@
 seminarix-samples (0.1.3) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 23 Mar 2008 16:39:31 +0100
+  [ Ferdinand Thommes ]
+  * established new dir video
+
+ -- Ferdinand Thommes <devil@sidux.com>  Sun, 23 Mar 2008 17:45:01 +0100
 
 seminarix-samples (0.1.2) unstable; urgency=low
 
