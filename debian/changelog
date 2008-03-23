@@ -1,8 +1,12 @@
 seminarix-samples (0.1.2) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 23 Mar 2008 04:36:45 +0100
+  [ Ferdinand Thommes ]
+  * created directories icons and menu
+
+ -- Ferdinand Thommes <devil@sidux.com>  Sun, 23 Mar 2008 14:18:45 +0100
 
 seminarix-samples (0.1.1) unstable; urgency=low
 
