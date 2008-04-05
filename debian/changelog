@@ -5,8 +5,9 @@ seminarix-samples (0.1.4) UNRELEASED; urgency=low
 
   [ Ferdinand Thommes ]
   * debian icons License.txt menu samples added string for samples video
+  * debian icons License.txt menu samples added string for samples video
 
- -- Ferdinand Thommes <devil@sidux.com>  Sat, 05 Apr 2008 22:09:27 +0200
+ -- Ferdinand Thommes <devil@sidux.com>  Sat, 05 Apr 2008 22:12:45 +0200
 
 seminarix-samples (0.1.3) unstable; urgency=low
 
