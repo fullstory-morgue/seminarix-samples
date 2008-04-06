@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
-Exec=x-www-browser /usr/share/seminarix-samples/video/sidux-png-video.ogg
+Exec=kaffeine /usr/share/seminarix-samples/video/sidux-png-video.ogg
 Icon=siduxvid
 
 Name=sidux PNG Video
