@@ -1,8 +1,12 @@
 seminarix-samples (0.1.5) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 06 Apr 2008 13:49:13 +0200
+  [ Ferdinand Thommes ]
+  * *added imagemagick to /debian/control
+
+ -- Ferdinand Thommes <devil@sidux.com>  Sun, 06 Apr 2008 21:42:01 +0200
 
 seminarix-samples (0.1.4) unstable; urgency=low
 
