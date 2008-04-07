@@ -1,3 +1,11 @@
+seminarix-samples (0.1.5+nmu1) UNRELEASED; urgency=high
+
+  * Non-maintainer upload.
+  * debian icons License.txt menu samples added install for seminarix
+    samples
+
+ -- Ferdinand Thommes <devil@sidux.com>  Mon, 07 Apr 2008 14:44:57 +0200
+
 seminarix-samples (0.1.5) UNRELEASED; urgency=low
 
   [ Stefan Lippers-Hollmann ]
