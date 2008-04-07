@@ -1,19 +1,9 @@
-seminarix-samples (0.1.5+nmu1) UNRELEASED; urgency=high
+seminarix-samples (0.1.5) unstable; urgency=low
 
-  * Non-maintainer upload.
+  * added imagemagick to /debian/control
+  * changed exec for video/sidux-png-video.ogg to kaffeine
   * debian icons License.txt menu samples added install for seminarix
     samples
-
- -- Ferdinand Thommes <devil@sidux.com>  Mon, 07 Apr 2008 14:44:57 +0200
-
-seminarix-samples (0.1.5) UNRELEASED; urgency=low
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Ferdinand Thommes ]
-  * *added imagemagick to /debian/control
-  * changed exec for video/sidux-png-video.ogg to kaffeine
 
  -- Ferdinand Thommes <devil@sidux.com>  Sun, 06 Apr 2008 22:33:32 +0200
 
