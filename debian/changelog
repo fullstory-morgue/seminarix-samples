@@ -1,3 +1,10 @@
+seminarix-samples (0.1.6+nmu1) UNRELEASED; urgency=low
+
+  * Non-maintainer upload.
+  * rename sidux-png-video icon
+
+ -- Ferdinand Thommes <devil@sidux.com>  Tue, 06 May 2008 22:10:50 +0200
+
 seminarix-samples (0.1.6) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
