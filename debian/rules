@@ -1,12 +1,16 @@
 #!/usr/bin/make -f
   
-include /usr/share/cdbs/1/rules/debhelper.mk
+%:
+	dh $@
 
-install/seminarix-samples::
-	mkdir -p debian/seminarix-samples/usr/share/pixmaps
-	convert icons/hi32-siduxvid.png \
-		debian/seminarix-samples/usr/share/pixmaps/siduxvid.xpm
-	convert icons/hi16-siduxvid.png \
-		debian/seminarix-samples/usr/share/pixmaps/siduxvid-16.xpm
+build:
+	dh build --until auto_build
+	convert icons/hi32-siduxvid.png siduxvid.xpm
+	convert icons/hi16-siduxvid.png siduxvid-16.xpm
+	dh build --remaining
 
-
+clean:
+	dh clean --before clean
+	rm -f   siduxvid.xpm \
+		siduxvid-16.xpm
+	dh clean --remaining
