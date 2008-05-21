@@ -1,3 +1,9 @@
+seminarix-samples (0.1.9) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 21 May 2008 20:02:00 +0200
+
 seminarix-samples (0.1.8) unstable; urgency=low
 
   * switch to the new dh implementation of debhelper 7.
