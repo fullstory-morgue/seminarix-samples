@@ -1,3 +1,9 @@
+seminarix-samples (0.1.10) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Jun 2008 16:38:49 +0200
+
 seminarix-samples (0.1.9) unstable; urgency=low
 
   * bump standards version to 3.8.0, no changes necessary.
