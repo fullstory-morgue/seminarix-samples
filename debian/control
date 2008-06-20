@@ -2,7 +2,7 @@ Source: seminarix-samples
 Section: doc
 Priority: extra
 Maintainer: Dinko Sabo <cobra@sidux.com>
-Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>, Ferdinand Thommes <devil@sidux.com> 
 Build-Depends: debhelper (>= 7), imagemagick
 Standards-Version: 3.8.0
 Vcs-Svn: svn://svn.berlios.de/fullstory/seminarix-samples/trunk
