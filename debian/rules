@@ -5,12 +5,12 @@
 
 build:
 	dh build --until auto_build
-	convert icons/hi32-siduxvid.png siduxvid.xpm
-	convert icons/hi16-siduxvid.png siduxvid-16.xpm
+#	convert icons/hi32-siduxvid.png siduxvid.xpm
+#	convert icons/hi16-siduxvid.png siduxvid-16.xpm
 	dh build --remaining
 
 clean:
 	dh clean --before clean
-	rm -f   siduxvid.xpm \
-		siduxvid-16.xpm
+#	rm -f   siduxvid.xpm \
+#		siduxvid-16.xpm
 	dh clean --remaining
