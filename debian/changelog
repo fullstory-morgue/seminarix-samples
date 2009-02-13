@@ -1,8 +1,13 @@
-seminarix-samples (0.1.12) UNRELEASED; urgency=low
+seminarix-samples (0.1.12) unstable; urgency=low
 
-  * NOT RELEASED YET
+  [ Dinko Sabo ]
+  * added seminarix-latex tutorial, thx to philth
+  * modified copyright date
+  * moved latex samples to seminarix-latex package
+  * corrected debian/control
+  * added wxmaxima samples
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:10:26 +0100
+ -- Dinko Sabo <cobra@sidux.com>  Tue, 10 Feb 2009 08:01:06 +0100
 
 seminarix-samples (0.1.11) unstable; urgency=low
 

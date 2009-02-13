@@ -1,0 +1,57 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+
+/* [wxMaxima: input   start ] */
+K(x):=1/10*x^3-5*x^2+125*x+900;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+plot2d([K(x)], [x,0,1000],
+ [plot_format, gnuplot])$
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+plot2d([K(x)], [x,0,100],
+ [plot_format, gnuplot])$
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+plot2d([K(x)], [x,0,50],
+ [plot_format, gnuplot])$
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+E(x):=200*x;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+G(x):=E(x)-K(x);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+diff(G(x), x);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+solve([G(x)=0], [x]);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+plot2d([G(x)], [x,0,70],
+ [plot_format, gnuplot])$
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+solve([-(3*x^2)/10+10*x+75=0], [x]);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+plot2d([-(3*x^2)/10+10*x+75], [x,0,70],
+ [plot_format, gnuplot])$
+/* [wxMaxima: input   end   ] */
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$
