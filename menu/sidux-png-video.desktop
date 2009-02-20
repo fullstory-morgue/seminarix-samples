@@ -1,5 +1,4 @@
 [Desktop Entry]
-Encoding=UTF-8
 Type=Application
 Exec=kaffeine /usr/share/seminarix-samples/video/sidux-png-video.ogg
 Icon=siduxvid
