@@ -1,8 +1,8 @@
-seminarix-samples (0.1.14) UNRELEASED; urgency=low
+seminarix-samples (0.1.14) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * added russian description
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:08:40 +0100
+ -- Dinko Sabo <cobra@sidux.com>  Sat, 21 Feb 2009 09:12:04 +0100
 
 seminarix-samples (0.1.13) unstable; urgency=low
 
