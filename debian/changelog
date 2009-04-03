@@ -1,8 +1,12 @@
 seminarix-samples (0.1.14) unstable; urgency=low
 
+  [ Dinko Sabo ]
   * added russian description
 
- -- Dinko Sabo <cobra@sidux.com>  Sat, 21 Feb 2009 09:12:04 +0100
+  [ Stefan Lippers-Hollmann ]
+  * bump standards version to 3.8.1, no changes necessary.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 04 Apr 2009 01:51:50 +0200
 
 seminarix-samples (0.1.13) unstable; urgency=low
 
